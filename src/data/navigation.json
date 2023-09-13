@@ -1,0 +1,17 @@
+[
+  {
+    "title": "home",
+    "url": "/",
+    "external": false
+  },
+  {
+    "title": "Inserat aufgeben",
+    "url": "/aufgeben",
+    "external": false
+  },
+  {
+    "title": "Inserat suchen",
+    "url": "/suchen",
+    "external": false
+  }
+]
